@@ -1,0 +1,1 @@
+A sample repository that demonstrates how I design and organize database structures using Microsoft SQL Server. It includes examples of table creation, constraints, and basic database organization practices to build clear, maintainable, and scalable schemas.
